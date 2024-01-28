@@ -7,12 +7,11 @@
 <p align="center">Control your iDotMatrix.</p>
 
 # What's iDotMatrix?
-iDotMatrix is a Programmable Pixel iDotMatrix LED Pixel Display.
+iDotMatrix is a **programmable LED pixel display**.
 
 <p align="center">
     <img src=".github/show.png" style="height: 300px;"/>
 </p>
-
 
 More details on [YouTube](https://www.youtube.com/watch?v=r2M9qa97ZQA).
 
@@ -22,4 +21,4 @@ Run `--help` in cli.
 Bluetooth required! Remember to switch on bluetooth.
 
 # License
-MIT License 2024-PRESENT @Vincent-the-gamer
+[MIT License 2024-PRESENT @Vincent-the-gamer](./LICENSE)
