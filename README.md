@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/logo.jpg" style="height: 90px;"/>
+    <img src=".github/logo.jpg" style="height: 120px;"/>
 </p>
 
 <h1 align="center">Pixelmatrix</h1>
@@ -9,7 +9,10 @@
 # What's iDotMatrix?
 iDotMatrix is a Programmable Pixel iDotMatrix LED Pixel Display.
 
-![show](.github/show.png)
+<p align="center">
+    <img src=".github/show.png" style="height: 300px;"/>
+</p>
+
 
 More details on [YouTube](https://www.youtube.com/watch?v=r2M9qa97ZQA).
 
